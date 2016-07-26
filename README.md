@@ -1,2 +1,2 @@
 # spring-kafka-hello
-first time to use github
+spring-integration-kafka 2.0.0.RELEASE
